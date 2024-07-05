@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working on software Engineering. My programming Languages mainly are Java and Python.
 - 👯 I’m looking to collaborate on research and interesting project development.
 - 📫 How to reach me: ecyoyo1125@gmail.com, this is the quickest way
-- 😄 Pronouns: I open to work.
+- 😄 Pronouns: Open to work.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Turquoise-T" alt="Turquoise-T" /></a> 
 </p>
