@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m interested in deepLearning and Artificial Intelligence, such as Large Language Models(LLM) and Graph Neural Networks.
+- 🔭 I’m interested in deepLearning and Artificial Intelligence, such as Large Language Models(LLM), Graph Neural Networks and NLP.
 - 🌱 I’m currently working on software Engineering. My programming Languages mainly are Java and Python.
 - 👯 I’m looking to collaborate on research and interesting project development.
-- 📫 How to reach me: ecyoyo1125@gmail.com, this is the quickest way
+- 📫 How to reach me: ecyoyo1125@gmail.com or cjy1125@stanford.edu, this is the quickest way.
 - 😄 Pronouns: Open to work.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Turquoise-T" alt="Turquoise-T" /></a> 
