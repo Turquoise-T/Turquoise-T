@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Turquoise-T" alt="Turquoise-T" /></a> 
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Turquoise-T&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Turquoise-T&label=Profile%20views&color=3399FF&style=flat)
 [![](https://visitor-badge.laobi.icu/badge?page_id=Turquoise-T.Turquoise-T)](https://visitor-badge.laobi.icu/badge?page_id=Turquoise-T.Turquoise-T)
